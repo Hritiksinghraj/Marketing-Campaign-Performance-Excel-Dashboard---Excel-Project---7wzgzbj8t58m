@@ -5,7 +5,15 @@ MS Excel :-  Marketing Campaign Performance
 
 
 
-The objective of this interactive Excel dashboard is to evaluate the effectiveness of marketing campaigns and track key performance indicators (KPIs) to make data-driven marketing decisions.
+The objective 
+
+
+
+
+this interactive Excel dashboard is to evaluate the effectiveness of marketing campaigns and track key performance indicators (KPIs) to make data-driven marketing decisions.
+
+
+
 
 ![Screenshot 2024-07-10 142127](https://github.com/Hritiksinghraj/Marketing-Campaign-Performance-Excel-Dashboard---Excel-Project---7wzgzbj8t58m/assets/147421383/af0f8561-3534-4f69-a721-aa9dd09bf3a2)
 
